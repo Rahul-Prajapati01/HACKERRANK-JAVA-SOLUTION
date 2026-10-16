@@ -33,7 +33,7 @@ After rearranging the students according to the above rules, print the first nam
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-16T07:45:42.592Z  
+**Submitted:** 2026-10-16T07:48:36.084Z  
 
 ```java
 import java.util.*;
