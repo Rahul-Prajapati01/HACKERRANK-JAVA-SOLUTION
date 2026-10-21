@@ -47,7 +47,7 @@ There are $3$ lines of input, and each line contains a single integer.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-16T07:48:32.486Z  
+**Submitted:** 2026-10-21T06:12:31.954Z  
 
 ```java
 import java.util.*;
